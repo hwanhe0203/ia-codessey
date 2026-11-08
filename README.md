@@ -1,2 +1,11 @@
 # ia-codessey
-Github과 Codyssey를 연동하기 위해 만들어진 repository 입니다. 
+# 오늘의 학습 기록
+
+## 배운 내용
+- GitHub에 파일 올리기
+- 마크다운으로 글 정리하기
+
+**다음에 할 일**은 파일을 수정하고 저장하는 거예요.
+
+[코디세이 플랫폼](https://codyssey.kr)
+
